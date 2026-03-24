@@ -165,6 +165,14 @@ caracteristica_id
 2
 ); 
 
+INSERT INTO Produto_Caracteristica(
+produto_id,
+caracteristica_id
+) VALUES
+(1,
+2
+); 
+
 
 
 
